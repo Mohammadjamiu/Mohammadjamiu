@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammadjamiu
 - 👀 I’m a developer and an engineer
 - 💞️ I love learning anything tech
-- 🌱 I’m looking forward to help my engineering collegues learn abstractive course at www.tooabstractive.com
+- 🌱 I’m looking forward to help my engineering collegues learn abstractive stuff at www.tooabstractive.com
 - 📫 You can reach me at isitengineermohammad@gmail.com
 
 <!---
