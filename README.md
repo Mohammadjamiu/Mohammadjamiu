@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammadjamiu
+- 👋 Hi, I’m @MohammadJamiu
 - 👀 I’m a developer and an engineer
 - 💞️ I love learning anything tech
 - 🌱 I’m looking forward to help my engineering collegues learn abstractive stuff at www.tooabstractive.com
